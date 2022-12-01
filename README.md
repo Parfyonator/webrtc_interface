@@ -1,1 +1,3 @@
-# webrtc_interface
+# webrtc-interface
+
+WebRTC interface for Dart-Web/Futter.
